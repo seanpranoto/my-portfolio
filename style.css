@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper{
+    width: 100%;
+    background-color: blue;
+    padding-bottom: 10px;
+}
+
+#header{
+    text-align: center;
+    background-color: grey;
+}
+
+#main-content{
+    margin: 20px 3%;
+}
+
+#main-content img{
+    width: 30%
+}
+
+#personal-info{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10%;
+    background: red;
+    color: white;
+}
+
+#personal-info h1{
+    background: yellow;
+}
+
+#personal-info p{
+    margin: 5px 5%;
+}
+
+#footer{
+    margin: 40px 0;
+    text-align: center;
+    background-color: red;
+}
+
+a{
+    color: white;
+    margin: 0 2%;
+}
+
+#footer img{
+    width: 2%;
+    vertical-align: middle;
+}
+
